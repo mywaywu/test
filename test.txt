@@ -1,1 +1,0 @@
-set ssh to avoid to keyin username and password each git push
